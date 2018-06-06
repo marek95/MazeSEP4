@@ -13,4 +13,4 @@ https://assetstore.unity.com/packages/vfx/shaders/minimalist-free-lowpoly-flat-g
 
 ## Video
 
-[![maze_game](http://img.youtube.com/vi/=-FnrU0Uvh_c/0.jpg)](http://www.youtube.com/watch?v=-FnrU0Uvh_c)
+[![maze_game](https://img.youtube.com/vi/-FnrU0Uvh_c/0.jpg)](http://www.youtube.com/watch?v=-FnrU0Uvh_c)
